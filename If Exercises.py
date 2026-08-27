@@ -23,7 +23,7 @@ def main():
 
 hard
     oper = input("Enter your arimetical operation:")
-    
+
 
 
 
