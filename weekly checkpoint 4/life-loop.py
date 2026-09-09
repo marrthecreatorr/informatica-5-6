@@ -8,11 +8,6 @@ def main():
     print(f"Perfect, you have {screen_t} hours of screen time today")
 
 
-
-
-
-
-
     while True:
         time.sleep(.900 * screen_t)
         print("You´re a quarter of the way through")
