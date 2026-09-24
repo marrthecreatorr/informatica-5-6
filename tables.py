@@ -1,5 +1,5 @@
 def main ():
-    answer = int(intup("Give me a numer 1-10"))
+    answer = int(input("Give me a numer 1-10:"))
     tables = [1,2,3,4,5,6,7,8,9,10]
 
     if answer <= 10:
@@ -17,5 +17,5 @@ def main ():
 
 
 
-If __name__ == "__main__":
+if __name__ == "__main__":
     main()
