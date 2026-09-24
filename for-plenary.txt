@@ -1,0 +1,3 @@
+1. Write a description for a while loop: while loop is and indefinated loop if you stiil dont know how many times you want to run the program.
+2. Write a description for a for loop: Is also a undefinated loop that run again and again.
+3. Compare a while loop to a for loop: A while loop defined the loop but a loop is not defined.
