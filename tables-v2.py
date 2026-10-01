@@ -12,6 +12,7 @@ def main():
             print(f"{x} times {times_table} is {answer}")
     else:
         print("Invalid command.")
+    
 
 
 if __name__ == "__main__":
