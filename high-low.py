@@ -20,13 +20,14 @@ def main():
         else:
 
             lowest_num = c
+
         print(f"The lowest number entered is {lowest_num}")
 
     num1 = float(input("Enter first number: "))
     num2 = float(input("Enter second number: "))
     num3 = float(input("Enter third number: "))
 
-    lowest(num1,num2)
+    lowest(num1,num2,num3)
 
 if __name__ == "__main__":
     main()
